@@ -1,0 +1,22 @@
+[
+  { "id": 1, "question": "What is the capital of France?", "answers": ["Berlin", "Madrid", "Paris", "Rome"], "correctAnswer": 2 },
+  { "id": 2, "question": "Which planet is known as the Red Planet?", "answers": ["Venus", "Mars", "Mercury", "Jupiter"], "correctAnswer": 1 },
+  { "id": 3, "question": "How many continents are there?", "answers": ["5", "6", "7", "8"], "correctAnswer": 2 },
+  { "id": 4, "question": "What is 7 + 8?", "answers": ["13", "14", "15", "16"], "correctAnswer": 1 },
+  { "id": 5, "question": "Which language runs in the browser?", "answers": ["Python", "Java", "C++", "JavaScript"], "correctAnswer": 3 },
+  { "id": 6, "question": "What does HTML stand for?", "answers": ["Hyper Trainer Markup Language", "Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "High Transfer Markup Language"], "correctAnswer": 1 },
+  { "id": 7, "question": "Which year did the first moon landing happen?", "answers": ["1965", "1969", "1971", "1973"], "correctAnswer": 1 },
+  { "id": 8, "question": "What is the largest mammal?", "answers": ["Elephant", "Blue Whale", "Giraffe", "Shark"], "correctAnswer": 1 },
+  { "id": 9, "question": "Which gas do plants absorb?", "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"], "correctAnswer": 1 },
+  { "id": 10, "question": "What is the boiling point of water at sea level?", "answers": ["90°C", "100°C", "110°C", "120°C"], "correctAnswer": 1 },
+  { "id": 11, "question": "Who wrote Hamlet?", "answers": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"], "correctAnswer": 2 },
+  { "id": 12, "question": "What is the square root of 64?", "answers": ["6", "7", "8", "9"], "correctAnswer": 2 },
+  { "id": 13, "question": "Which instrument has keys and pedals?", "answers": ["Guitar", "Drum", "Piano", "Violin"], "correctAnswer": 2 },
+  { "id": 14, "question": "How many sides does a hexagon have?", "answers": ["4", "5", "6", "7"], "correctAnswer": 2 },
+  { "id": 15, "question": "What is the speed of light?", "answers": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"], "correctAnswer": 0 },
+  { "id": 16, "question": "Which ocean is the largest?", "answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"], "correctAnswer": 3 },
+  { "id": 17, "question": "Which element has the chemical symbol Au?", "answers": ["Silver", "Gold", "Argon", "Aluminum"], "correctAnswer": 1 },
+  { "id": 18, "question": "What is the capital of Japan?", "answers": ["Seoul", "Beijing", "Tokyo", "Bangkok"], "correctAnswer": 2 },
+  { "id": 19, "question": "How many minutes are in an hour?", "answers": ["30", "45", "60", "90"], "correctAnswer": 2 },
+  { "id": 20, "question": "Which animal is known as the king of the jungle?", "answers": ["Tiger", "Elephant", "Lion", "Gorilla"], "correctAnswer": 2 }
+]
